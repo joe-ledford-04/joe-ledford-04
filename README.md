@@ -12,6 +12,10 @@ I have strong expereince working in **R** and **Python**, with a particular focu
 
 ---
 
+## Projects
+- [Tennis Serve Performance Analysis](https://github.com/joe-ledford-04/tennis-serve-performance-analysis.git)
+- [Kaggle Housing Price Competition](https://github.com/joe-ledford-04/Kaggle-Housing-Price-Competition.git)
+
 ## Skills
 
 **Languages & Tools**
