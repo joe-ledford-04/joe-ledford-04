@@ -1,16 +1,46 @@
-## Hi there 👋
+## Hi, I'm Joe
 
-<!--
-**joe-ledford-04/joe-ledford-04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a senior at **American University** studying **Data Science** with a minor in **Economics**.
+My academic interests sit at the intersection of econometrics, applied data analysis, and sports analytics.
 
-Here are some ideas to get you started:
+I have strong expereince working in **R** and **Python**, with a particular focus on:
+- Data cleaning and processing
+- Feature engineering
+- Data visualizaiton
+- Linear and logistic regression
+- Time-series and panel data methods
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Skills
+
+**Languages & Tools**
+- R (tidyverse, ggplot2, stringr, dplyr)
+- Python (pandas, NumPy, matplotlib, scikit-learn, seaborn, pycaret)
+- STATA
+
+** Methods**
+- Time-Series Analysis (Stationary & Non-stationary Models)
+  - ACF/PACF functions
+  - Engle-Granger & Johansen Cointegration
+  - ADF Test
+  - IMF & FEVD
+  - VAR, CVAR, VECM, VMA
+- Panel Data Models (Non-dynamic & dynamic models)
+  - OLS 
+  - First Difference OLS
+  - Random Effects
+  - Fixed Effects
+  - GLS
+  - LSVD
+  - Between-Groups 
+  - Hasuamn-Wu Test
+  - Anderson-Hsiao 2SLS Estimator
+- PCA and dimensionality reduction
+- Feature engineering & model evaluation
+
+## Interests
+- Applied econometrics
+- Sports analytics
+- Predictive modeling
+- Neural Networks
