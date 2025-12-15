@@ -19,7 +19,7 @@ I have strong expereince working in **R** and **Python**, with a particular focu
 - Python (pandas, NumPy, matplotlib, scikit-learn, seaborn, pycaret)
 - STATA
 
-** Methods**
+**Methods**
 - Time-Series Analysis (Stationary & Non-stationary Models)
   - ACF/PACF functions
   - Engle-Granger & Johansen Cointegration
