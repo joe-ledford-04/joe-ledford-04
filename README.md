@@ -14,7 +14,7 @@ I have strong expereince working in **R** and **Python**, with a particular focu
 
 ## Projects
 - [Kaggle Housing Price Competition (Top 10% Finish)](https://github.com/joe-ledford-04/Kaggle-Housing-Price-Competition.git)
-- [Cherry Blossom Prediction Competiton 2026](https://github.com/joe-ledford-04/WSA-Petals-and-Probabilities-2026-Team-Data-United-.git)
+- [WSA/GMU Cherry Blossom Prediction Competiton 2026](https://github.com/joe-ledford-04/WSA-Petals-and-Probabilities-2026-Team-Data-United-.git)
 
 ## Skills
 
