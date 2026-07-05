@@ -1,14 +1,44 @@
-# Joe Ledford
+# Joseph Ledford
 
-Data Science Senior at American University  
+Software Engineer | Machine Learning | Data Science | AI
 
-🔗 Portfolio Website: https://joe-ledford-04.github.io  
+I'm a software engineer with a background in data science who enjoys building machine learning systems, quantitative finance projects, and production-quality software.
 
-## Highlighted Repositories
-- Kaggle Housing Price Competition (Top 10%)
-- WSA/GMU Cherry Blossom Prediction Competition 2026
+My interests include:
 
-## Projects In Progress
-- IDX Exchange, California Housing Price Model
-- Spotify's Baking Obsession: An Evaluation of Spotify’s Recommendation System
-- Zack Charbonnet 2025 Regular Season Analysis
+- Machine Learning
+- Artificial Intelligence
+- Quantitative Finance
+- Predictive Modeling
+- Data Engineering
+- Statistical Modeling
+
+🌐 Portfolio
+https://joe-ledford-04.github.io
+
+:busts_in_silhouette: LinkedIn
+www.linkedin.com/in/joseph-ledford04 
+
+## Featured Projects
+
+🏠 California Housing Valuation Pipeline
+End-to-end machine learning pipeline for forward-tested residential property valuation using CatBoost, feature engineering, and robust preprocessing.
+
+🎵 Spotify Recommendation System Analysis
+Analysis of Spotify's recommendation algorithms through user listening behavior and statistical evaluation.
+
+🌸 Cherry Blossom Bloom Prediction
+Machine learning models for forecasting peak cherry blossom bloom dates using historical climate and environmental data as part of the WSA/GMU Prediction Competition.
+
+📈 Trading Agent Platform
+Building an autonomous cryptocurrency trading platform that integrates statistical arbitrage models, AI agents, live market data pipelines, and SQL databases to monitor markets and support automated trading decisions.
+
+## Currently Learning
+
+- Large Language Models
+- Agentic AI
+- Quantitative Trading
+- Time Series Forecasting
+- MLOps
+
+---
